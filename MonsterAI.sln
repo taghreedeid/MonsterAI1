@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterAI.Plugins", "MonsterAI.Plugins.csproj", "{7B092C6E-668D-A0AB-E484-64787948B784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterAI", "MonsterAI.csproj", "{3F0201F0-42BC-EC7D-036D-D2A4869537FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterAI.Editor", "MonsterAI.Editor.csproj", "{F67D5116-FFC2-DCE6-6C18-BE30ACD039FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B092C6E-668D-A0AB-E484-64787948B784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B092C6E-668D-A0AB-E484-64787948B784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B092C6E-668D-A0AB-E484-64787948B784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B092C6E-668D-A0AB-E484-64787948B784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0201F0-42BC-EC7D-036D-D2A4869537FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0201F0-42BC-EC7D-036D-D2A4869537FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0201F0-42BC-EC7D-036D-D2A4869537FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0201F0-42BC-EC7D-036D-D2A4869537FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67D5116-FFC2-DCE6-6C18-BE30ACD039FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67D5116-FFC2-DCE6-6C18-BE30ACD039FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67D5116-FFC2-DCE6-6C18-BE30ACD039FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67D5116-FFC2-DCE6-6C18-BE30ACD039FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
